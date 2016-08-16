@@ -1,0 +1,9 @@
+.disableClick{
+    pointer-events: none;
+}
+
+input.form-control {
+
+    margin-bottom:10px;
+
+}
